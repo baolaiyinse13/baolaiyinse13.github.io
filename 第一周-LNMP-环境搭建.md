@@ -16,7 +16,7 @@ PHP版本：        php-7.2.19
 
 启动镜像，选择第一个选项，回车
 
-![img](file:///C:\Users\shc\AppData\Local\Temp\ksohtml12724\wps1.jpg) 
+![img](https://github.com/ven0m01/websecurity/blob/master/firstweek/%E5%9B%BE%E7%89%871.png) 
 
 选择，中文---简体中文
 
